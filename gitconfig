@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fridman.niklas@gmail.com
+	name = NIKLAS FRIDMAN
